@@ -1,0 +1,59 @@
+#form, #create{
+    background-color: #008081;
+    box-shadow: 1px 3px 4px 2px rgba(0,0,0,0.90);
+    width: 20rem;
+    height: 17rem auto;
+    text-align: center;
+    margin-top: 12rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body{
+    background-color: #f7f7f7;
+}
+#spn,#spn2{
+    Color: #ebc804;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+#email_add, #password, #first_name ,#last_name{
+    border-radius: 20px;
+    border-style: none;
+    background-color: #f7f7f7;
+    padding: 8px;
+    margin: 5px;
+    border-style: none;
+}
+#submit1, #signUp{
+    border-radius: 20px;
+    color: white;
+    background-color:  #008081;
+    padding: 8px;
+    border-color: whitesmoke;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid ;
+    width: 12rem;
+    height: 2rem;
+    display: inline-block;
+    
+}
+#submit1,#signUp:hover{
+   background-color: #007Acc; 
+}
+a:hover{
+        color: blue;
+}
+#buffer{
+    padding: 8px;
+    margin: 5px;
+    border-style: none; 
+}
+#headerp{
+    font-size: 1.2rem;
+    font-style: normal;
+    color: #f7f7f7;
+
+}
